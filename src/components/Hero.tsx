@@ -12,7 +12,7 @@ export default function Hero() {
 
         <div className="relative">
           <p className="font-display text-lg md:text-xl text-warmgray mb-4 animate-wobble inline-block">
-            💧 Est. 2023 — Chattanooga, TN 💧
+            Est. 2025 — Chattanooga, TN
           </p>
 
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-charcoal mb-6 leading-tight">
@@ -29,7 +29,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="#members" className="card-cartoon bg-charcoal text-cream px-8 py-4 font-display font-bold text-lg hover:bg-slategray">
-              Meet the Members 💦
+              Meet the Members
             </a>
             <a href="#trivia" className="card-cartoon bg-eggshell text-charcoal px-8 py-4 font-display font-bold text-lg hover:bg-pearl">
               See Our Scores 📊

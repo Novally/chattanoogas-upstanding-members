@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto px-4 pt-20 pb-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
           <div>
-            <h3 className="font-display font-bold text-2xl mb-4">💧 C.U.M.</h3>
+            <h3 className="font-display font-bold text-2xl mb-4">Chattanooga&apos;s Upstanding Members</h3>
             <p className="text-warmgray leading-relaxed text-sm">
               Chattanooga&apos;s Upstanding Members — a group of 11 passionate individuals who come together weekly to spill their knowledge all over trivia night.
             </p>
@@ -33,7 +33,7 @@ export default function Footer() {
         </div>
         <div className="border-t border-slategray/30 pt-8 text-center">
           <p className="font-display text-sm text-warmgray">© {new Date().getFullYear()} Chattanooga&apos;s Upstanding Members. All rights reserved.</p>
-          <p className="text-xs text-slategray mt-2">Made with 💧 in Chattanooga, TN</p>
+          <p className="text-xs text-slategray mt-2">Made with ❤️ in Chattanooga, TN</p>
         </div>
       </div>
     </footer>
