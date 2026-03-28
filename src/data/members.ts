@@ -17,7 +17,7 @@ export const members: Member[] = [
     blurb:
       "The original upstanding member. Known for finishing first in every competition and leaving a lasting impression on everyone they meet.",
     emoji: "👑",
-    joinDate: "Jan 2023",
+    joinDate: "Jan 2025",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ export const members: Member[] = [
     blurb:
       "Our most intellectually stimulating member. Always bursting with knowledge at the most unexpected moments.",
     emoji: "🧠",
-    joinDate: "Jan 2023",
+    joinDate: "Jan 2025",
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ export const members: Member[] = [
     blurb:
       "Brings the energy every single time. Known for explosive enthusiasm and getting everyone pumped up and ready to go.",
     emoji: "🔥",
-    joinDate: "Feb 2023",
+    joinDate: "Feb 2025",
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ export const members: Member[] = [
     blurb:
       "Always has a plan and knows exactly when to pull out the right answer. Edging closer to victory every week.",
     emoji: "♟️",
-    joinDate: "Feb 2023",
+    joinDate: "Feb 2025",
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ export const members: Member[] = [
     blurb:
       "You never know what's going to come out of this one. Unpredictable, uncontainable, and always making a splash.",
     emoji: "🃏",
-    joinDate: "Mar 2023",
+    joinDate: "Mar 2025",
   },
   {
     id: 6,
@@ -67,7 +67,7 @@ export const members: Member[] = [
     blurb:
       "Slick, polished, and always finishing strong. Leaves every room better than they found it — albeit a bit stickier.",
     emoji: "😎",
-    joinDate: "Mar 2023",
+    joinDate: "Mar 2025",
   },
   {
     id: 7,
@@ -77,7 +77,7 @@ export const members: Member[] = [
     blurb:
       "Takes a while to warm up but once they arrive, the delivery is always satisfying. Brings the best refreshments.",
     emoji: "🌸",
-    joinDate: "Apr 2023",
+    joinDate: "Apr 2025",
   },
   {
     id: 8,
@@ -87,7 +87,7 @@ export const members: Member[] = [
     blurb:
       "Always there for the big finish. When things get hard, this member rises to the occasion and never disappoints.",
     emoji: "🎯",
-    joinDate: "Apr 2023",
+    joinDate: "Apr 2025",
   },
   {
     id: 9,
@@ -97,7 +97,7 @@ export const members: Member[] = [
     blurb:
       "Silent but deadly productive. Works behind the scenes and consistently produces impressive output under pressure.",
     emoji: "🌊",
-    joinDate: "May 2023",
+    joinDate: "May 2025",
   },
   {
     id: 10,
@@ -107,7 +107,7 @@ export const members: Member[] = [
     blurb:
       "Fresh-faced and eager to please. Still learning the ropes but already showing signs of a massive release of potential.",
     emoji: "⭐",
-    joinDate: "Jun 2023",
+    joinDate: "Jun 2025",
   },
   {
     id: 11,
@@ -117,6 +117,6 @@ export const members: Member[] = [
     blurb:
       "Keeps everyone together. Thick-skinned, always sticking around, and the binding force that holds this whole group intact.",
     emoji: "🫠",
-    joinDate: "Jun 2023",
+    joinDate: "Jun 2025",
   },
 ];
